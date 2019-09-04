@@ -1,0 +1,11 @@
+{
+  "name": "fallan",
+  "version": "1.0.0",
+  "description": "The inner circle of co-conspirators behind Fållan 7.",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikita Stankiewicz",
+  "license": "ISC"
+}
